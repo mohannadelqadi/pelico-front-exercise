@@ -19,7 +19,7 @@ For the already installed application, you need only to start it as:
 npm start
 ```
 
-## Changing list
+## List of changes
 
 As agreed per the meeting, this is the changes list:
 
