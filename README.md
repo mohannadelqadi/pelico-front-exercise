@@ -21,7 +21,7 @@ npm start
 
 ## List of changes
 
-As per the agreement in our meeting, this is the changes list:
+As per the agreement in our meeting, these are a small chnages on the demo app.
 
 - Add a small style change on the homepage (products list).
 - Implement the (Quantity - 1) on the cart feature, once the quantity reaches 0 the product will be removed from the cart list.
