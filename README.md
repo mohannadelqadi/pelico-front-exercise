@@ -21,7 +21,7 @@ npm start
 
 ## List of changes
 
-As agreed per the meeting, this is the changes list:
+As per the agreement in our meeting, this is the changes list:
 
 - Add a small style change on the homepage (products list).
 - Implement the (Quantity - 1) on the cart feature, once the quantity reaches 0 the product will be removed from the cart list.
